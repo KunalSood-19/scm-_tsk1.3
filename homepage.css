@@ -26,4 +26,54 @@ header {
   nav ul li {
     margin-left: 20px;
   }
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  nav ul li a img {
+    width: 24px;
+    height: 24px;
+  }
+  .t2 {
+    height: 70px;
+  }
+  
+  .t3 {
+    height: 550px;
+    width: 1460px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 5px solid rgb(4, 0, 54);
+    border-radius: 20px;
+  }
+  
+  .t4 {
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  
+  
+  .hp {
+    border: 3px black solid;
+    border-radius: 100px;
+    height: 200px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  
+.hp:hover {
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .col p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+  }
   
