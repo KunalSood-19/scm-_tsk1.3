@@ -36,4 +36,18 @@ header {
     width: 24px;
     height: 24px;
   }
-  uhu
+  .t2 {
+    height: 70px;
+  }
+  
+  .t3 {
+    height: 550px;
+    width: 1460px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 5px solid rgb(4, 0, 54);
+    border-radius: 20px;
+  }
+  
+  
