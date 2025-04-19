@@ -12,3 +12,12 @@ to cool accessories, explore a wide range of trending tech gadgets with a seamle
 > Designed to make your shopping smooth and enjoyable.
 
 ---
+## 🚀 Key Features
+
+🔎 *Smart Search* – Instantly find the gadgets you're looking for  
+🖼 *Product Cards* – Beautifully styled cards with gadget previews  
+🎨 *Smooth Animations* – Enjoy sleek transitions and hover effects  
+⚡ *Fast Performance* – Optimized for speed and user experience  
+
+---
+
