@@ -35,3 +35,15 @@ to cool accessories, explore a wide range of trending tech gadgets with a seamle
 
 
 ---
+## 👨‍💻 Built With ❤ By Team GadgetUser
+
+> We’re a team of passionate frontend developers on a mission to make tech shopping *fun, fast, and futuristic*.
+
+🧑‍💻 Team Members:
+- Kunal Sood
+- Sukhamrit Singh
+- Sidharth 
+- Pranvat Singh
+- Rahul Kumar
+---
+
