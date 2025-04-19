@@ -21,3 +21,17 @@ to cool accessories, explore a wide range of trending tech gadgets with a seamle
 
 ---
 
+## 🛠 Tech Stack
+
+| Category           | Technologies Used                      |
+|--------------------|-----------------------------------------|
+| 💻 *Frontend*     | HTML5, CSS3, JavaScript     |
+| 🎨 *Styling*       | Custom CSS, Flexbox, Grid, Animations   |
+| 🌙 *Dark Mode*     | JavaScript-based Theme Toggler         |
+
+---
+
+## 📂 Project Structure
+
+
+---
