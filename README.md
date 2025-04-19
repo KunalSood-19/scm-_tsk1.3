@@ -46,4 +46,15 @@ to cool accessories, explore a wide range of trending tech gadgets with a seamle
 - Pranvat Singh
 - Rahul Kumar
 ---
+## 🔗 Live Demo
+
+🌐 [Visit GadgetUser Now](https://your-live-demo-link.com)
+
+---
+
+## 📸 Sneak Peek
+
+![GadgetUser Preview](./screenshot.png)
+
+---
 
