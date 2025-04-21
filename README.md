@@ -43,7 +43,7 @@ to cool accessories, explore a wide range of trending tech gadgets with a seamle
 - Kunal Sood
 - Sukhamrit Singh
 - Sidharth 
-- Pranvat Singh
+- Pranvat Singh Johar
 - Rahul Kumar
 ---
 ## 🔗 Live Demo
